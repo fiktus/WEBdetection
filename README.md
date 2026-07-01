@@ -20,6 +20,10 @@
 **YOLOv26m** (accurate) <br><br>
 <img width="732" height="550" alt="image" src="https://github.com/user-attachments/assets/d45a2181-6396-42fd-a89a-55338d55bf13" />
 <br><br>
+<br><br>
 **YOLOv26s**
+<br><br>
+<img width="690" height="265" alt="image" src="https://github.com/user-attachments/assets/7effa9d6-104c-4641-addd-e9496d204d38" />
+
 
 
