@@ -16,7 +16,7 @@
 ## ссылка на streamlit: https://webdetection-kgonkndnls7hrq2zjgeqyy.streamlit.app/
 
 <br><br>
-**YOLOv26m** (accurate) <br><br>
+**YOLOv26m** (в коде называется accurate) <br><br>
 -----------
 <img width="732" height="550" alt="image" src="https://github.com/user-attachments/assets/d45a2181-6396-42fd-a89a-55338d55bf13" />
 <br><br>
