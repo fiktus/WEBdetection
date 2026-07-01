@@ -14,4 +14,4 @@
 - у **YOLOv26m** получилось качество map@50 = **0.620** за 50 эпох обучения ( 30 эпох на снимках с разрешением 1080 и 20 эпох с апскейлом до 1600 )
 - у **Yolov26s** получилось качество map@50 = **0.528** за 30 эпох обучения ( на больших снимках не дообучал т.к. по заданию нужна быстраа модель )
 
-##ссылка на streamlit: https://webdetection-kgonkndnls7hrq2zjgeqyy.streamlit.app/
+## ссылка на streamlit: https://webdetection-kgonkndnls7hrq2zjgeqyy.streamlit.app/
