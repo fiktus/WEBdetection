@@ -13,8 +13,11 @@
 Обучал 2 модели YOLOv26m и YOLOv26s
 - у **YOLOv26m** получилось качество map@50 = **0.620**, map@50-90 = **0.41** за 50 эпох обучения ( 30 эпох на снимках с разрешением 1080 и 20 эпох с апскейлом до 1600 )
 - у **Yolov26s** получилось качество map@50 = **0.528** за 30 эпох обучения ( на больших снимках не дообучал т.к. по заданию нужна быстраа модель )
-<img width="732" height="550" alt="image" src="https://github.com/user-attachments/assets/6d2ae5a0-cdea-4751-8800-55b8e8e3d629" />
-
-
+- 
 ## ссылка на streamlit: https://webdetection-kgonkndnls7hrq2zjgeqyy.streamlit.app/
+
+<br><br><br><br>
+**YOLOv26m** <br><br>
+<img width="732" height="550" alt="image" src="https://github.com/user-attachments/assets/d45a2181-6396-42fd-a89a-55338d55bf13" />
+
 
