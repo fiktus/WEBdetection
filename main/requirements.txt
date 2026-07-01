@@ -3,7 +3,7 @@
 fastapi==0.137.2
 huggingface_hub==1.21.0
 numpy==2.4.6
-opencv-python==4.13.0.92
+opencv-python-headless>=4.5.0
 pillow==12.2.0
 requests==2.34.2
 streamlit==1.58.0
