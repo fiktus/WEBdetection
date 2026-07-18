@@ -29,7 +29,7 @@ def predict(image, model_name, conf, max_bbox):
     h, w = image.shape[:2]
     max_native = max(h, w)
     maxsz = 1080
-    if model_name == 'accurate':#КОСТЫЛЬ, т.к. я дообучал модель на высоком разрешении (imgsz = 1600) для повышения map,
+    if model_name == 'accurate':# т.к. я дообучал модель на высоком разрешении (imgsz = 1600) для повышения map,
         if max_native <= 1080:#  при апсемпле изображения 1360x765 модель ведёт себя плохо (в остальном - отлично)
             maxsz = max_native#  очень даже хорошо помолго.
         elif max_native <= 1400:
